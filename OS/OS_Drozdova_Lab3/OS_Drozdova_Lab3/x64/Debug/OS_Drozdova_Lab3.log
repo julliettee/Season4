@@ -1,0 +1,4 @@
+﻿  main.c
+D:\university\Season_4\OS\OS_Drozdova_Lab3\OS_Drozdova_Lab3\main.c(57,44): warning C4133: 'function': incompatible types - from 'void (__cdecl *)(LPVOID)' to 'LPTHREAD_START_ROUTINE'
+D:\university\Season_4\OS\OS_Drozdova_Lab3\OS_Drozdova_Lab3\main.c(57,54): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  OS_Drozdova_Lab3.vcxproj -> D:\university\Season_4\OS\OS_Drozdova_Lab3\x64\Debug\OS_Drozdova_Lab3.exe

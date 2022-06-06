@@ -1,0 +1,3 @@
+﻿  Receiver.c
+D:\university\Season_4\OS\OS_Drozdova_Lab4\OS_Drozdova_Lab4\Receiver.c(42,42): warning C4133: 'function': incompatible types - from 'char [512]' to 'LPWSTR'
+  OS_Drozdova_Lab4.vcxproj -> D:\university\Season_4\OS\OS_Drozdova_Lab4\Debug\Receiver.exe

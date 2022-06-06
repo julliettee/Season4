@@ -1,0 +1,5 @@
+﻿  Server.cpp
+D:\university\Season_4\OS\Drozdova_Lab5\Drozdova_Lab5\Server.cpp(123,9): warning C4101: 'dwBytesWrite': unreferenced local variable
+D:\university\Season_4\OS\Drozdova_Lab5\Drozdova_Lab5\Server.cpp(120,8): warning C4101: 'lpszInMessage': unreferenced local variable
+D:\university\Season_4\OS\Drozdova_Lab5\Drozdova_Lab5\Server.cpp(121,9): warning C4101: 'dwBytesRead': unreferenced local variable
+  Drozdova_Lab5.vcxproj -> D:\university\Season_4\OS\Drozdova_Lab5\Debug\Server.exe

@@ -1,0 +1,11 @@
+﻿  Server.cpp
+D:\university\Season_4\OS\Drozdova_Lab5\Drozdova_Lab5\Server.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\OS\Drozdova_Lab5\Drozdova_Lab5\Server.cpp(151,9): warning C4101: 'dwBytesWrite': unreferenced local variable
+D:\university\Season_4\OS\Drozdova_Lab5\Drozdova_Lab5\Server.cpp(148,8): warning C4101: 'lpszInMessage': unreferenced local variable
+D:\university\Season_4\OS\Drozdova_Lab5\Drozdova_Lab5\Server.cpp(149,9): warning C4101: 'dwBytesRead': unreferenced local variable
+  Generating code
+  5 of 167 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Drozdova_Lab5.vcxproj -> D:\university\Season_4\OS\Drozdova_Lab5\Release\Server.exe
