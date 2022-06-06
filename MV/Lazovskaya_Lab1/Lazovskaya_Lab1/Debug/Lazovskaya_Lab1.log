@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\university\Season_4\MV\Lazovskaya_Lab1\Lazovskaya_Lab1\main.cpp(39,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\university\Season_4\MV\Lazovskaya_Lab1\Lazovskaya_Lab1\main.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+  Lazovskaya_Lab1.vcxproj -> D:\university\Season_4\MV\Lazovskaya_Lab1\Debug\Lazovskaya_Lab1.exe
