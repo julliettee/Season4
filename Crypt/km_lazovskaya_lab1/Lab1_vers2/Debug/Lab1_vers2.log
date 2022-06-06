@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1_vers2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(11,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(52,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(86,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(123,30): warning C4018: '>=': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(155,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(170,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(194,14): warning C4018: '>': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(377,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(400,27): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\Ciphers.h(439,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\main.cpp(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\university\Season_4\Crypt\Lab1_Lazovskaya\Lab1_vers2\main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Lab1_vers2.vcxproj -> D:\university\Season_4\Crypt\Lab1_Lazovskaya\Debug\Lab1_Lazovskaya.exe

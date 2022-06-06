@@ -1,0 +1,16 @@
+﻿  Lab1_vers2.cpp
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\Checkers.h(9,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\Checkers.h(56,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\Checkers.h(102,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\ShiftCipher.h(12,14): warning C4018: '>': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\ShiftCipher.h(31,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\AffineCipher.h(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\TranspositionCipher.h(75,34): warning C4129: ' ': unrecognized character escape sequence
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\VigenereCipher.h(25,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\VigenereCipher.h(48,27): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\HillCipher.h(27,30): warning C4018: '>=': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\HillCipher.h(55,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\HillCipher.h(68,23): warning C4018: '<': signed/unsigned mismatch
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\Lab1_vers2.cpp(13,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\university\Season_4\Crypt\Lab1_vers2\Lab1_vers2\Lab1_vers2.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Lab1_vers2.vcxproj -> D:\university\Season_4\Crypt\Lab1_vers2\Debug\Lab1_vers2.exe
